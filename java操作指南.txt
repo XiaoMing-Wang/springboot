@@ -1,0 +1,24 @@
+
+
+查看JDK版本
+java -version
+
+
+编译测试：make test
+编译安装：make install
+
+开启 redis-server 窗口得开着
+关闭 shutdown
+
+数据库
+
+启动 
+sudo /usr/local/mysql/support-files/mysql.server start 
+
+停止
+sudo /usr/local/mysql/support-files/mysql.server stop
+
+重启
+sudo /usr/local/mysql/support-files/mysql.server restart
+
+mysql密码(Mac)  qq08090
